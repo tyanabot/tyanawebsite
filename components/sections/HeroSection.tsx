@@ -91,7 +91,7 @@ const HeroSection: React.FC = () => {
         className="absolute bottom-10 left-1/2 -translate-x-1/2 z-10"
       >
         <a
-          href="#trust-bar"
+          href="#about"
           className="flex flex-col items-center gap-2 text-white/70 hover:text-white transition-colors duration-300"
           aria-label="Nach unten scrollen"
         >

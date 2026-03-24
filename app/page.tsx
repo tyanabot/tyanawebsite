@@ -3,13 +3,11 @@
  * 
  * Startseite mit folgenden Sektionen:
  * 1. HeroSection - Großes Bild mit Claim und CTAs
- * 2. TrustBar - Kundenlogos (Marquee)
- * 3. AboutTeaser - Kurzbeschreibung der Agentur
- * 4. ServicesTeaser - 5 Leistungskacheln
+ * 2. AboutTeaser - Kurzbeschreibung der Agentur
+ * 3. ServicesTeaser - 5 Leistungskacheln
  */
 
 import HeroSection from '@/components/sections/HeroSection';
-import TrustBar from '@/components/sections/TrustBar';
 import AboutTeaser from '@/components/sections/AboutTeaser';
 import ServicesTeaser from '@/components/sections/ServicesTeaser';
 
@@ -26,9 +24,6 @@ export default function HomePage() {
     <>
       {/* Hero Section */}
       <HeroSection />
-      
-      {/* Trust Bar - Kundenlogos */}
-      <TrustBar />
       
       {/* About Teaser */}
       <AboutTeaser />
