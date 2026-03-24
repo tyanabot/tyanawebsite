@@ -1,0 +1,28 @@
+{
+  "name": "TYANA GmbH - Designagentur für Markeninszenierung",
+  "short_name": "TYANA GmbH",
+  "description": "Designagentur für Markeninszenierung - POS, Retail, Messebau, Werbemittel, IT-Installation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e62e4c",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "/images/logo3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "design"],
+  "screenshots": []
+}

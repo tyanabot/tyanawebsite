@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tyana.de/sitemap.xml
+
+# Disallow admin or private areas if they exist
+# Disallow: /admin/
+# Disallow: /api/
