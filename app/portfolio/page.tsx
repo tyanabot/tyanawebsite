@@ -15,10 +15,10 @@ import { motion } from 'framer-motion';
 
 // Partner
 const partners = [
-  { name: 'Digital Titans GmbH', description: 'Digitale Transformation' },
-  { name: 'thisplays GmbH', description: 'Interactive Media' },
-  { name: 'zelos concept', description: 'Strategic Design' },
-  { name: 'Digitags', description: 'Digital Solutions' },
+  { name: 'Digital Titans GmbH', description: 'Softwareentwicklung' },
+  { name: 'thisplays GmbH', description: 'Design & Konzept' },
+  { name: 'zelos concept', description: 'Digitale PoS Lösungen' },
+  { name: 'Digitags', description: 'Digitale Preisschilder' },
 ];
 
 // Portfolio Bilder (Referenzen)
@@ -54,7 +54,7 @@ export default function PortfolioPage() {
               transition={{ duration: 0.6, delay: 0.1 }}
               className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto"
             >
-              Entdecken Sie eine Auswahl unserer erfolgreich realisierten Projekte für nationale und internationale Marken.
+              Hier eine kleine Auswahl unserer Projekte für nationale und internationale Marken.
             </motion.p>
           </div>
         </div>
